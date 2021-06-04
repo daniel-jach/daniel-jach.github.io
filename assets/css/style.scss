@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav {
+ padding-left:10px; 
+}
+
+.nav ul {
+  all: unset;
+  list-style-type: none;
+  margin: 0;
+  padding: 5px 0 10px 5px;
+}
+
+.nav ul li {
+ all: unset;
+ padding: 2px 20px;
+ cursor: pointer;
+}
+
+.nav ul li a {
+  all: unset;
+  display: block;
+  color: #6998F0;
+}
+
+.nav ul li a:hover, .nav ul li a:focus {
+ font-weight: bold;
+}

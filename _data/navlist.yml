@@ -1,0 +1,20 @@
+docs_list_title: Navigation
+docs:
+
+- title: Home
+  url: index.html
+
+- title: Teaching
+  url: teaching.html
+  
+- title: Publications
+  url: publications.html
+
+- title: Resources
+  url: resources.html
+  
+- title: Borrowed Plumes
+  url: student-work.html
+  
+- title: Contact
+  url: contact.html
