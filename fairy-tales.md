@@ -14,7 +14,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Wer braucht schon Glasschuhe</b></summary>
   
-  Von Barbara (Germanistik, 3. Studienjahr, Technische Universität Ostchinas, Sommer 2021)
+  <p>Von Barbara (Germanistik, 3. Studienjahr, Technische Universität Ostchinas, Sommer 2021)</p>
   
 <p>Vor langer Zeit lebte ein Mädchen namens Aschenputtel in einem kleinen Stadtschloss mit ihrer netten Stiefmutter und ihrer liebevollen Schwester. Eines Tages kam ein hübscher Prinz ins Schloss und lud sie zu einem Ball ein. Aber Aschenputtel schwänzte den Ball und ging stattdessen in eine Pizzeria, um Pizza zu essen. Als sie gerade den Mund öffnen wollte, um hineinzubeißen, sprach die Pizza: &bdquo;Liebes Aschenputtel, ich bin eigentlich ein hübscher Prinz. Ich wurde von einer bösen Margherita-Pizza verflucht und musste mit ihr die Identität tauschen. Freundliches Mädchen, wirst du mir helfen, wieder ein Prinz zu werden?&ldquo;</p>
 
