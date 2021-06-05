@@ -11,12 +11,23 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 
 <br>
 
-### Sommer 2020
+<details>
+  <summary><b>Wer braucht schon Glasschuhe</b></summary>
+  
+  <p>Von Barbara (Germanistik, 3. Studienjahr, Technische Universität Ostchinas, Sommer 2021)
+  
+Vor langer Zeit lebte ein Mädchen namens Aschenputtel in einem kleinen Stadtschloss mit ihrer netten Stiefmutter und ihrer liebevollen Schwester. Eines Tages kam ein hübscher Prinz ins Schloss und lud sie zu einem Ball ein. Aber Aschenputtel schwänzte den Ball und ging stattdessen in eine Pizzeria, um Pizza zu essen. Als sie gerade den Mund öffnen wollte, um hineinzubeißen, sprach die Pizza: &bdquo;Liebes Aschenputtel, ich bin eigentlich ein hübscher Prinz. Ich wurde von einer bösen Margherita-Pizza verflucht und musste mit ihr die Identität tauschen. Freundliches Mädchen, wirst du mir helfen, wieder ein Prinz zu werden?&ldquo; 
+
+Aschenputtel nickt und fragt: &bdquo;Wie kann ich das machen?&ldquo; Die Pizza sagte: &bdquo;Du brauchst nur vor dem falschen Prinzen zu pfeifen, nachdem du mich gegessen hast, und schreien: Pizza ist das beste Essen der Welt! Und ich werde meine Identität zurückbekommen.&ldquo; 
+
+Also packte Aschenputtel die Pizza ein, nahm sie mit zum Ball und half ihr, ihre wahre Identität wiederzuerlangen, genau wie sie gesagt hatte. Der Prinz war Aschenputtel so dankbar, dass er versprach, Aschenputtel einen Wunsch zu erfüllen. Aschenputtel bat den Prinzen, sie zur ersten weiblichen Präsidentin der Geschichte zu machen. Sie wollte viele Gesetze einführen, um für die Gleichstellung der Frauen zu kämpfen. Der Prinz erfüllte ihr diesen Wunsch, indem er die konstitutionelle Monarchie abschaffte. Und Aschenputtel lebte glücklich und regierte gerecht. Der Prinz aber eröffnete eine Pizzeria, um leckere Pizzen für die Bürger des Landes zu machen.
+
+</details>
 
 <details>
   <summary><b>Moon Wars</b></summary>
   
-  <p>Von Vita, Louisa, Anita und Mia (Germanistik, 2. Studienjahr)</p>
+  <p>Von Vita, Louisa, Anita und Mia (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p>
   
   <p>Es war einmal ein König, der sein Volk knechtete und hohe Steuern von ihm verlangte. Das Leben der Bauern war hart und arm. Das ganze Land war mit der Politik des Königs unzufrieden, aber die Bauern wussten nicht, was sie tun sollten. Eines Nachts saß ein Bauer am Brunnen. Der Mond am Himmel spiegelte sich im Brunnen wieder. Da sprach der Mond ihn plötzlich an: &bdquo;Du solltest tapfer für deine Grundrechte und ein glückliches Leben kämpfen! Ich werde dir helfen.&ldquo;</p>
   
@@ -29,7 +40,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Der Teufel im Brunnen</b></summary>
   
-  <p>Von Elisa, Bella, Olivia und Hannah (Germanistik, 2. Studienjahr)</p>
+  <p>Von Elisa, Bella, Olivia und Hannah (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p>
 
   <p>Es war einmal ein kleines, stilles Dorf. In der Mitte des Dorfes war ein Brunnen, in dem ein freundlicher Elf lebte und aus dem alle Bauern Wasser schöpften. Das Leben der Bauern war friedlich und gut. Aber in einer stürmischen Nacht kam der Teufel in das Dorf. Ihm gefiel der Brunnen und er entschied sich dort zu leben. Aber wie den Elfen aus dem Brunnen vertreiben? Da hatte der Teufel eine Idee. Er machte eine Überschwemmung und warnte alle Bauern: &bdquo;Ich bin der Gott des Brunnens! Falls ihr mich verärgert... Haha, werdet ihr bestimmt getötet. Aber wenn ihr mir Schätze und Opfergaben gebt, verspreche ich euch, alle eure Wünsche zu erfüllen!&ldquo; Die Bauern hatten zuerst große Angst. Aber dann gab eine Frau dem Teufel ihren goldenen Ring und bekam sofort ein Kind, wie es ihr Wunsch gewesen war. Da glaubten alle Bauern an den Teufel. Das Dorf wurde immer autokratischer.</p>
   
@@ -44,7 +55,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Wie ein Knabe König wurde</b></summary>
   
-  <p>Von Gabi, Katharina, Jupiter, Carla und Darlene (Germanistik, 2. Studienjahr)</p>
+  <p>Von Gabi, Katharina, Jupiter, Carla und Darlene (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p>
   
   <p>Es war einmal ein Schloss, darin lebten der König und die Königin. Sie hatten eine hübsche Tochter. Als die Königin starb, heiratete der König eine andere Frau. Doch die neue Königin war machtgierig und hatte ein böses Herz.</p>
 
@@ -62,7 +73,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Von Hase, Drache und Frosch</b></summary>
   
-  <p>Von Markus, Adam, Iris, Ida und Doris (Germanistik, 2. Studienjahr)</p>
+  <p>Von Markus, Adam, Iris, Ida und Doris (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p>
   
   <p style="text-align: center;">Erster Teil</p>
   
@@ -89,7 +100,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Das Adler-Ehepaar</b></summary>
   
-  <p>Von Emma, Liya, Ernst, Ramona und Greta (Germanistik, 2. Studienjahr)</p>
+  <p>Von Emma, Liya, Ernst, Ramona und Greta (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p>
   
   <p>Es ist nun lange, lange her, und man muss die Geschichte erzählen, bevor sie vergessen wird. Es war in einem sehr schönen Land，das von einem alten König regiert wurde. Der alte König hatte zwei wunderschöne und freundliche Töchter, Prinzessin Liya und Ramona. Der alte König liebte seine Töchter sehr, so dass er seine Töchter alle besten Dinge der Welt geben wollte, einschließlich eines ausgezeichneten Ehemannes. Deshalb wollte der König seine kleine Tochter Ramona mit Noah, einem mutigen und talentierten Adeligen, verheiraten. Aber Noah war arrogant und seine Ehrgeiz war zu groß. Er wollte König werden. So war er sehr glücklich darüber, Ramona zu heiraten. Aber Ramona war eine selbständige Frau und sehnte sich nach Freiheit. Und sie liebte ihn nicht.</p>
   
@@ -120,7 +131,7 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <details>
   <summary><b>Wie ein Waisenkind erst ein Frosch und dann ein König wurde</b></summary>
   
-  <p>Von Kiana, Felix, Lena, Helga und Treling (Germanistik, 2. Studienjahr)</p> 
+  <p>Von Kiana, Felix, Lena, Helga und Treling (Germanistik, 2. Studienjahr, Zhengzhou Universität, Sommer 2020)</p> 
   
   <p>Es ist nun lange lange her, da lebte eine arme Waise, ganz allein. Sein Name war Adamaskus. Obwohl das Leben hart war, war er fleißig und freundlich. Er half oft seinen alten Nachbarn, Wasser zu holen und Holz zu hacken. Er ging auch oft in die Berge zur Jagd. Er war sehr gesund und stark. Mit 18 Jahren war er zu einem großen Burschen herangewachsen, hübsch und ohne Tadel. Eines Tages betrat er die Stadt und sah die Ankündigung eines Kampfkunstturniers; zufällig war auch die Prinzessin da, um das Spiel zu sehen.</p>
   
