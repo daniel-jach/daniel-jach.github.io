@@ -12,6 +12,19 @@ In meinem Seminar *Mustergültig Schreiben in DaF* nutzen meine Studierenden die
 <br>
 
 <details>
+  <summary><b>Vergiss mein nicht</b></summary>
+  
+  <p>Von Irene, Helena, Berta, Jonas und Luka (Germanistik, 2. Studienjahr, Technische Universität Ostchinas, Sommer 2021)</p>
+
+<p>Vor langer Zeit lebte einmal ein Zauberer. Er verliebte sich in ein reiches Mädchen. Er machte dem Mädchen einen Heiratsantrag und sagte zu dem Mädchen: &bdquo;Ich habe viel Geld, wirst du mich heiraten?&ldquo; Das Mädchen sagte zu ihm: &bdquo;Es tut mir leid, ich habe jemanden, den ich mag.&ldquo; Da sagte der Zauberer zu dem Mädchen: &bdquo;Warum? Weil ich nicht gut bin?&ldquo; Das Mädchen antwortete: &bdquo;Nein, weil ich mich in einen liebenswerten Jungen verliebt habe. Er ist sehr arm, aber er ist sehr fleißig.&ldquo; Der Zauberer war sehr wütend, als er das hörte. Er war sehr eifersüchtig auf den Jungen. Er suchte und fand den Jungen und verfluchte ihn, so dass der Junge das Mädchen vergaß.</p>
+
+<p>Als das Mädchen ihn besuchen ging, sagte sie zu ihm: &bdquo;Schatz, sollen wir zusammen spazieren gehen?&ldquo; Der Junge sah sie verwirrt an und sagte: &bdquo;Wer bist du? Kennen wir uns?&ldquo; Jetzt merkt das Mädchen, dass der Junge sich selbst nicht mehr erkannte.</p>
+
+<p>Das Mädchen ging sehr traurig fort. Sie ging allein in den Garten, um zu weinen. Als ihre Tränen auf die Blütenblätter fielen, erschien eine schöne Fee vor ihr. Die Fee fragte das Mädchen: &bdquo;Warum bist du so traurig?&ldquo; Das Mädchen weinte und sagte: &bdquo;Mein Geliebter wurde von einem Zauberer verflucht und er hat mich vergessen.&ldquo; Als sie dies hörte, hatte die Fee großes Mitgefühl mit ihr und sagte: &bdquo;Ich kann dir helfen.&ldquo; Nachdem die Fee den Zauberer gefunden hatte, bestrafte sie ihn mit Magie und brach dann den Fluch auf dem Jungen. Der Junge erinnerte sich endlich wieder an das Mädchen. Schließlich heirateten sie beiden und lebten glücklich zusammen bis ans Ende ihrer Tage.</p>
+
+</details>
+
+<details>
   <summary><b>Wer braucht schon Glasschuhe</b></summary>
   
   <p>Von Barbara (Germanistik, 3. Studienjahr, Technische Universität Ostchinas, Sommer 2021)</p>
