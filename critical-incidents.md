@@ -10,7 +10,7 @@ In meinem Seminar *Interkulturelle Kommunikation* schreiben meine Studierenden k
 <br>
 
 ### Freie Liebe  
-Von Barbara, Jennifer und Günther, Sommer 2020  
+Von Barbara, Jennifer und Günther (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Während meines Austauschstudiums in Deutschland besuchte ich einmal die Gastfamilie einer befreundeten Austauschstudentin. Meine Kommilitonin hatte mir erzählt, dass ihre Gastfamilie aus Vater, Mutter und einer Tochter bestünde. Alle drei begrüßten mich herzlich. Aber wer war der vierte, ein junger Mann, der mir lächelnd die Hand schüttelte? Ich sah meine Kommilitonin fragend an und sie sagte mir leise auf Chinesisch, das sei der Freund der Tochter. Ich war verwirrt. Die Tochter der Familie war den ganzen Tag mit ihrem Freund zusammen? Ihre Mutter plauderte auch von Zeit zu Zeit glücklich und völlig normal mit ihm, so als sei das ganz selbstverständlich. Ich war sehr überrascht und fand es sehr komisch. Als ich noch zur Schule ging, hatte meine Mutter mir immer wieder verboten, mich zu verlieben, vor allem dann, wenn meine Noten einmal nicht so gut waren. Als ich die Tochter möglichst indirekt und beiläufig darauf ansprach, sagte sie, sie sei die Beste in ihrer Klasse. &bdquo;Obwohl du einen Freund hast?&ldquo;, staunte ich. &bdquo;Nein&ldquo;, antwortete sie, &bdquo;weil ich einen Freund habe&ldquo;.
 
@@ -34,7 +34,7 @@ Antwort 1 ist richtig. In Deutschland halten die meisten Eltern eine Liebesbezie
 <br>
 
 ### Mittagessen im Volkskundemuseum
-Von Jonas, Alice und Nathalie, Sommer 2020
+Von Jonas, Alice und Nathalie (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 An einem Wochenende im November nahmen meine deutsche Gastfamilie, meine Freundin und ich an einem Programm der Uni Kassel teil. Wir besuchten ein Museum für Volkskunde und besichtigten eine Ausstellung über Lebens- und Essgewohnheiten unterschiedlicher Völker. Zu unterschiedlichen Zeiten und an unterschiedlichen Orten auf unserer Erde kamen und kommen die absonderlichsten Sachen auf den Teller! Beim Mittagessen trafen wir einen türkischen Doktoranden, der in Deutschland studierte. Beim Essen führten wir ein angeregtes Gespräch. Wir redeten vor allem über China. Er sagte, dass die Chinesen Hunde und Katzen essen würden. Meine Gastfamilie schaute ganz besorgt... sie haben einen Hund. Ich antwortete, dass die Sorten von Lebensmitteln in China zwar vielfältiger als in Deutschland oder der Türkei seien; aber das bedeute nicht, dass Chinesen auch Hunde und Katzen essen. In meiner Familie isst jedenfalls niemand Haustiere! Das hat er mir geglaubt und meine Gastfamilie war wieder beruhigt. Er meinte aber, meine Familie sei eben eine Ausnahme. 
 
@@ -58,7 +58,7 @@ Was ist hier geschehen?
 <br>
 
 ### Duschen ist wichtiger als &bdquo;Ich&ldquo;
-Von Caren, Katja und Jocelyn, Sommer 2020
+Von Caren, Katja und Jocelyn (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Im vergangenen Winter hatte ich ein Liebesverhältnis mit meinem Studienkollegen, Johannes, der aus Malaysia für ein Austauschstudium nach China gekommen war. Ich war so verliebt, dass ich immer an ihn denken musste und seine Stimme und sein schönes Gesicht vermisste. Also rief ich ihn an, wann immer ich Zeit hatte, wie z.B. während der Pausen zwischen den Seminaren um 13 und 19 Uhr. Jedes mal, wenn ich ihn anrief, sagte er immer, dass er gerade keine Zeit habe und jetzt duschen müsste und legte direkt wieder auf. Das war mir völlig unverständlich. Duschen? Um 13 und 19 Uhr? Ich glaubte, dass er ein Geheimnis vor mir verbarg. Da wurde ich zornig und fragte meine Studienkolleginnen nach ihrem Rat, aber sie konnten sich Johannes' Verhalten auch nicht erklären. Am Ende habe ich mit Johannes Schluss gemacht. Ich glaube, ein chinesischer Freund ist eleganter, verständnis- und rücksichtsvoller als ein Freund aus dem Ausland.
 
@@ -83,7 +83,7 @@ Was ist hier geschehen?
 <br>
 
 ### Das Foto  
-Von Oskar, Adele und Winnie, Sommer 2020
+Von Oskar, Adele und Winnie (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Eines Tages, es war im zweiten Studienjahr, nach dem Unterricht im Klassenzimmer, machte ich heimlich ein Foto von unserem Deutschlehrer, während meine Tischnachbarin ihm eine Frage stellte. Ich hatte mir nichts dabei gedacht und postete das Foto zum Spaß in den Freundeskreis auf WeChat. Alle fanden das lustig und machten unserem Lehrer Komplimente. Alle fanden, dass er sehr gut auf dem Foto aussah. Als aber mein Lehrer das Foto sah, wurde er sehr wütend. So hatte ich ihn noch nie erlebt. Er war eigentlich immer ein leiser und gutmütiger Mann gewesen. Er schrieb mir eine sehr lange Nachricht, in der er mich kritisierte und sagte, dass es falsch sei, dass es sogar illegal sei! Da war ich sehr verlegen und erstaunt, aber ich fühlte mich auch ein bisschen beleidigt. Ich, eine Verbrecherin? Was hatte ich getan? Wieso war er so aufgebracht? Gefiel ihm das Foto nicht? Er war immer sehr nett gewesen, aber jetzt... Am Ende habe ich das Foto wieder gelöscht, und ich habe ihn nie wieder fotografiert.
 
@@ -107,7 +107,7 @@ Was ist hier geschehen?
 <br>
 
 ### Rechnen in der Mensa
-Von Bella, Alessia und Jutta, Sommer 2020
+Von Bella, Alessia und Jutta (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Während meines Austauschstudiums an der Universität Kassel in Deutschland ging ich zum Mittagessen normalerweise in die Mensa. Die Preise waren immer seltsam: 3,60 Euro, 2,10 Euro. Niemals einfach 3 Euro oder 2 Euro. Eines Mittags -- das Essen kostete 3,60 Euro -- gab ich der Kassiererin zuerst 4 Euro, und dann gab ich ihr noch 10 Cent. Ich wollte eine Münze für 50 Cent zurück bekommen, weil ich nicht so viel Kleingeld mit mir herumtragen wollte. Aber die Kassiererin verstand mich anscheinend nicht. Sie gab mir die 10-Cent-Münze und vier weitere Münzen zurück. Vielleicht dachte sie, ich wollte ihr 10 Cent Trinkgeld geben, und wollte das Trinkgeld nicht annehmen (das ist nämlich nicht üblich in Deutschland). Ich fühlte mich komisch und fand auch die Kassiererin irgendwie seltsam.
 
@@ -131,7 +131,7 @@ Was ist hier geschehen?
 <br>
 
 ### Gastfreundschaft  
-Von Jacqueline, Fiona und Vicky, Sommer 2020
+Von Jacqueline, Fiona und Vicky (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Als ich in Deutschland ankam, holte meine Gastfamilie mich vom Bahnhof ab und begrüßte mich freundlich. &bdquo;Sehr höflich, typisch deutsch.&ldquo;, dachte ich. Ich war erschöpft von der langen Reise und hatte sehr viel Gepäck. Auf dem Weg nach Hause ging ich nur langsam, weil ich müde war und das viele Gepäck mich behinderte. Endlich fragten sie mich, ob ich ihre Hilfe brauchte. Ich sagte: &bdquo;Nein, danke.&ldquo;, aber eigentlich hatte ich gehofft, dass sie mich noch einmal fragen oder einfach direkt einen Teil des Gepäcks tragen würden. In China verhält man sich aus Höflichkeit immer so. Aber meine Gastfamilie ging einfach vorne weg. Das erschien mir wahnsinnig unhöflich. Aber vielleicht war die Frage auch ernst gemeint und ich hätte nur &bdquo;Ja&ldquo; sagen müssen?
 
@@ -155,7 +155,7 @@ Was ist hier geschehen?
 <br>
   
 ### Ein verlegener Geburtstagswunsch
-Von Gabi, Zofia, Jorinde und Adina, Sommer 2020
+Von Gabi, Zofia, Jorinde und Adina (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Im Jahr 2019 war Adina, chinesische Studentin der Germanistik, für ein Austauschstudium in Deutschland. Dort lernte sie ihre Gastfamilie kennen. Die Gastfamilie war sehr nett und freundlich. Sie gingen gemeinsam aus und aßen zusammen, und Adina fühlte sich wie ein richtiger Teil der Familie. Adina und ihre Mitbewohnerin wollten gemeinsam den Geburtstag ihrer Gastmutter feiern. Am Abend vor dem Geburtstag der Gastmutter gratulierte Adina ihr zu ihrem Geburtstag, bevor sie ins Bett ging. Ihre Gastmutter wurde ein bisschen wütend und sagte: &bdquo;Das tut man doch nicht.&ldquo; Adina sah sie fragend an. Gratulierten die Deutschen einander nicht zum Geburtstag? Als sie am nächsten Morgen erwachte, hörte sie schon von ihrem Zimmer aus ein &bdquo;Happy Birthday&ldquo;-Lied und Glückwünsche. Sie gesellte sich zu den anderen. Ihre Gastmutter sah sie erwartungsvoll an, also sagte Adina: &bdquo;Guten Morgen! Gut geschlafen?&ldquo; Irgendwie hatte sie danach den Eindruck, dass sie wieder das Falsche gesagt hatte. 
 
@@ -179,7 +179,7 @@ Was ist hier geschehen?
 <br>
 
 ### Ein Besuch in einer Vorlesung 
-Von Isabel, Tamina und Becky, Sommer 2020
+Von Isabel, Tamina und Becky (Germanistik, 3. Studienjahr, Zhengzhou Universität, Sommer 2020)
 
 Vor einigen Jahren verbrachte ich ein paar Monate bei einer Gastfamilie in Deutschland, um mein Deutsch zu verbessern. Eine meiner Lehrerinnen schlug mir vor, Vorlesungen an einer deutschen Uni zu besuchen. Also machte ich mich zusammen mit einer Freundin am Nachmittag auf den Weg zu einer Vorlesung. Nachdem wir uns im Kursplan informiert hatten, kamen wir zehn Minuten vor Beginn in den Hörsaal, schließlich wollten wir ganz vorne sitzen und hatten gehört, dass die Deutschen immer sehr, sehr pünktlich seien. Aber als wir ankamen, war niemand im Hörsaal. Wir fühlten uns ängstlich, denn Deutschland war uns fremd. Und ich dachte, ob wir vielleicht ins falsche Klassenzimmer geraten waren oder es heute doch keine Vorlesung gab. Da kam endlich eine deutsche Studentin, die fragte ich: &bdquo;Warum kommt der Lehrer nicht? Ist die Zeit schon um.&ldquo; Sie antwortete: &bdquo;Er kommt wie immer später.&ldquo; Nachdem wir lange gewartet hatten, kam der Lehrer 30 Minuten später an. Endlich konnte ich an einer richtigen Vorlesung teilnehmen. Es ging um Althochdeutsch und ich habe im Grunde nichts verstanden.
 
