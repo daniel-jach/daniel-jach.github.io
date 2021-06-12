@@ -18,9 +18,9 @@ Download my academic writing guide (in German) <a href="material/leitfaden-wisse
 Semester | Title | CEFL | Syllabus | Evaluation
 -----|-----------------------------------|----|----|----
 2021 | MäRchen: Text Mining mit den sieben Zwergen<br>("FaiRy Tales: Text Mining with the Seven Dwarfs")  | A2/B1 | <a href="material/syllabus-maerchen-2021.html" target="_blank">Syllabus</a> | <a href="material/evaluation-fairytales-2ndyear-2021-SHNU.pdf" target="_blank">Evaluation</a>
-2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | B2 | | <a href="material/evaluation-speaking-3rdyear-2021-SHNU.pdf" target="_blank">Evaluation</a> <a href="material/evaluation-speaking-3rdyear-2021-ECUST.pdf" target="_blank">Evaluation</a>
-2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | A2/B1 | | <a href="material/evaluation-speaking-2ndyear-2021-SHNU.pdf" target="_blank">Evaluation</a> 
-2021 | Grundkurs DaF<br>("Comprehensive GFL") | A2/B1 | | <a href="material/evaluation-comprehensive-german-2ndyear-2021-SHNU.pdf" target="_blank">Evaluation</a> 
+2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | B2 | | <a href="material/evaluation-speaking-3rdyear-2021-SHNU.pdf" target="_blank">Evaluation</a>\* <a href="material/evaluation-speaking-3rdyear-2021-ECUST.pdf" target="_blank">Evaluation</a>
+2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | A2/B1 | | <a href="material/evaluation-speaking-2ndyear-2021-SHNU.pdf" target="_blank">Evaluation</a>\* 
+2021 | Grundkurs DaF<br>("Comprehensive GFL") | A2/B1 | | <a href="material/evaluation-comprehensive-german-2ndyear-2021-SHNU.pdf" target="_blank">Evaluation</a>\* 
 2021 | Wirtschaftsdeutsch<br>("Business German") | C1 | | <a href="material/evaluation-commercial-german-3rdyear-2021-ECUST.pdf" target="_blank">Evaluation</a> 
 2021 | Mustergültig Schreiben in DaF<br>("Exemplary Writing in GFL") | B1B2 | <a href="material/syllabus-writing-2021.pdf" target="_blank">Syllabus</a> | <a href="material/evaluation-writing-2ndyear-2021-ECUST.pdf" target="_blank">Evaluation</a>
 2020/21 | Bildungssprache Deutsch / TestDaF<br>("Academic Language German / TestDaF preparation") | B1/B2
@@ -56,3 +56,5 @@ Semester | Title | CEFL | Syllabus | Evaluation
 2011 | DaF für Studierende anderer Fächer<br>("GFL for Nonmajor Students") | A2/B1
 2010/11 | DaF für Studierende anderer Fächer<br>("GFL for Nonmajor Students") | A2  
 2010 | Tutorien Einführung in die Germanistische Sprachwissenschaft<br>("Tutorials for Introduction to German Linguistics")
+
+\* Straightliners and dishonest respondets have been removed.
