@@ -17,17 +17,17 @@ Download my academic writing guide (in German) <a href="material/leitfaden-wisse
 
 Semester | Title | CEFL | Syllabus | Evaluation
 -----|-----------------------------------|----|----|----
-2021 | MäRchen: Text Mining mit den sieben Zwergen<br>("FaiRy Tales: Text Mining with the Seven Dwarfs")  | A2/B1 | <a href="material/syllabus-maerchen-2021.html" target="_blank">Syllabus</a>
-2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | B1/B2
-2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | A2/B1
-2021 | Grundkurs DaF<br>("Comprehensive GFL") | A2/B1
-2021 | Wirtschaftsdeutsch<br>("Business German") | B2 
-2021 | Mustergültig Schreiben in DaF<br>("Exemplary Writing in GFL") | B1 | <a href="material/syllabus-writing-2021.pdf" target="_blank">Syllabus</a>
+2021 | MäRchen: Text Mining mit den sieben Zwergen<br>("FaiRy Tales: Text Mining with the Seven Dwarfs")  | A2/B1 | <a href="material/syllabus-maerchen-2021.html" target="_blank">Syllabus</a> | <a href="material/evaluation-fairytales-2021-SHNU.pdf" target="_blank">Evaluation</a>
+2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | B2 | | <a href="material/evaluation-speaking-b2-SHNU.pdf" target="_blank">Evaluation</a> <a href="material/evaluation-speaking-b2-ECUST.pdf" target="_blank">Evaluation</a>
+2021 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | A2/B1 | | <a href="material/evaluation-speaking-a2b1-SHNU.pdf" target="_blank">Evaluation</a> 
+2021 | Grundkurs DaF<br>("Comprehensive GFL") | A2/B1 | | <a href="material/evaluation-comprehensive-german-2021-SHNU.pdf" target="_blank">Evaluation</a> 
+2021 | Wirtschaftsdeutsch<br>("Business German") | C1 | | <a href="material/evaluation-commercial-german-2021-ECUST.pdf" target="_blank">Evaluation</a> 
+2021 | Mustergültig Schreiben in DaF<br>("Exemplary Writing in GFL") | B1B2 | <a href="material/syllabus-writing-2021.pdf" target="_blank">Syllabus</a> | <a href="material/evaluation-writing-2021-ECUST.pdf" target="_blank">Evaluation</a>
 2020/21 | Bildungssprache Deutsch / TestDaF<br>("Academic Language German / TestDaF preparation") | B1/B2
 2020/21 | Gespräche (und verwandte Sprachspiele) in DaF<br>("Spoken German") | A2 
 2020/21 | Grundkurs DaF<br>("Comprehensive GFL") | B1
 2020/21 | Grundkurs DaF<br>("Comprehensive GFL") | A2
-2020/21 | Landeskunde<br>("Regional Studies") | B1/B2 | <a href="material/syllabus-regional-studies-2020-21.pdf" target="_blank">Syllabus</a> |<a href="material/evaluation-regional-studies-2020-21-1.pdf" target="_blank">Group 1</a><br><a href="material/evaluation-regional-studies-2020-21-2.pdf" target="_blank">Group 2</a>
+2020/21 | Landeskunde<br>("Regional Studies") | B1/B2 | <a href="material/syllabus-regional-studies-2020-21.pdf" target="_blank">Syllabus</a> |<a href="material/evaluation-regional-studies-2020-21-1.pdf" target="_blank">Evaluation</a><br><a href="material/evaluation-regional-studies-2020-21-2.pdf" target="_blank">Evaluation</a>
 2020 | Grammatische Konstruktionen gesprochener Sprache<br>("Grammatical Constructions of Spoken Language") | C1 | <a href="material/syllabus-spoken-language-2020.pdf" target="_blank">Syllabus</a>  
 2020 | Wissenschaftliches Schreiben für DaF<br>("Academic Writing for GFL") | B2 |<a href="material/syllabus-academic-writing-2020.pdf" target="_blank">Syllabus</a> | <a href="material/evaluation-academic-writing-2020.pdf" target="_blank">Evaluation</a>
 2020 | Einführung in die Germanistische Sprachwissenschaft II<br>("Introduction to German Linguistics II") | B2 | <a href="material/syllabus-introduction-linguistics-2020.pdf" target="_blank">Syllabus</a> | <a href="material/evaluation-introduction-linguistics-2020.pdf" target="_blank">Evaluation</a>
