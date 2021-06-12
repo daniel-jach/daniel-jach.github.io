@@ -57,4 +57,4 @@ Semester | Title | CEFL | Syllabus | Evaluation
 2010/11 | DaF für Studierende anderer Fächer<br>("GFL for Nonmajor Students") | A2  
 2010 | Tutorien Einführung in die Germanistische Sprachwissenschaft<br>("Tutorials for Introduction to German Linguistics")
 
-\* Straightliners and dishonest respondets have been removed.
+\* Straightliners and dishonest respondents have been removed automatically.
