@@ -47,7 +47,7 @@ Früh übt sich, wer…: Korpus Einfaches Deutsch für daten-geleitetes Fremdspr
 
 Red, Falling, Nearest Star: Does Exposure to Science Fiction Literature Predict Knowledge and Processing of Genre-specific Collocations? 7th Conference of the Scandinavian Association for Language and Cognition, Aarhus, Denmark, May 2019. <a href="material/abstract-SALC-2019.pdf" target="_blank">Abstract</a> <a href="material/slides-SALC-2019.pdf" target="_blank">Slides</a> <a href="material/poster-SALC-2019.pdf" target="_blank">Poster</a>
 
-Multilinguals at the Explicit-Implicit Interface. Workshop of the Arctic MSCA-IF Symposium, Tromsø, Norway, May 2019. <a href="material/slides-Tromso-Workshop-2019.pdf" target="_blank">Slides</a>
+Multilinguals at the Explicit-Implicit Interface. Workshop of the Arctic MSCA-IF Symposium, Tromsø, Norway, May 2019. <a href="material/slides-Tromso-workshop-2019.pdf" target="_blank">Slides</a>
 
 Iconicity in word order variation: The case of preposition placement. 12th International Symposium on Iconicity in Language and Literature, Lund, Sweden, May 2019. <a href="material/abstract-ILL-2019.pdf" target="_blank">Abstract</a> <a href="material/slides-ILL-2019.pdf" target="_blank">Slides</a>
 
