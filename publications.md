@@ -13,7 +13,7 @@ I think of language as the network of trails that cut through the landscape surr
 
 `2022`
 
-QuAX-DaF. Quantitative Linguistik trifft Fremdsprachenlehre ("QuAX-DaF. Quantitative linguistics meets foreign language teaching") (accepted for publication). *Zielsprache Deutsch, 49*(1). <a href="material/manuscript-quax-daf.pdf" target="_blank">Manuscript</a>
+QuAX-DaF. Quantitative Linguistik trifft Fremdsprachenlehre ("QuAX-DaF. Quantitative linguistics meets foreign language teaching") (accepted for publication). *Zielsprache Deutsch, 49*(1). <a href="material/manuscript-ZD-2022.pdf" target="_blank">Manuscript</a>
 
 `2021`
 
@@ -35,33 +35,35 @@ A usage-based approach to preposition placement in English as a second language.
 
 `2021`  
 
-Einfach mal ausprobieren: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Give it a try: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). Nachwuchskonferenz der 48. Jahrestagung DaF/DaZ, online, Juni 2021. <a href="material/fadaf-2021-talk-abstract.pdf" target="_blank">Abstract</a> <a href="material/fadaf-2021-talk-slides.pdf" target="_blank">Slides</a>
+The Case of German Two-Way Prepositions. Corpus Approaches to Lexicogrammar (LxGr), online, July 2021 <a href="material/abstract-LxGr-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-LxGr-2021.pdf" target="_blank">Slides</a>
+
+Einfach mal ausprobieren: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Give it a try: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). Nachwuchskonferenz der 48. Jahrestagung DaF/DaZ, online, June 2021. <a href="material/abstract-fadaf-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-fadaf-2021.pdf" target="_blank">Slides</a>
 
 `2020`  
 
-Früh übt sich, wer…: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Tis early practice...: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). DAAD-Lektorenfortbildungsseminar 2020, Shanghai, China, November 2020. <a href="material/DAAD-talk-KED.pdf" target="_blank">Slides</a>
+Früh übt sich, wer…: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Tis early practice...: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). DAAD-Lektorenfortbildungsseminar 2020, Shanghai, China, November 2020. <a href="material/slides-DAAD-2020.pdf" target="_blank">Slides</a>
 
 `2019` 
 
-Red, Falling, Nearest Star: Does Exposure to Science Fiction Literature Predict Knowledge and Processing of Genre-specific Collocations? 7th Conference of the Scandinavian Association for Language and Cognition, Aarhus, Denmark, May 2019. <a href="material/SALC-2019-talk-abstract.pdf" target="_blank">Abstract</a> <a href="material/SALC-2019-talk-slides.pdf" target="_blank">Slides</a> <a href="material/SALC-2019-poster.pdf" target="_blank">Poster</a>
+Red, Falling, Nearest Star: Does Exposure to Science Fiction Literature Predict Knowledge and Processing of Genre-specific Collocations? 7th Conference of the Scandinavian Association for Language and Cognition, Aarhus, Denmark, May 2019. <a href="material/abstract-SALC-2019.pdf" target="_blank">Abstract</a> <a href="material/slides-SALC-2019.pdf" target="_blank">Slides</a> <a href="material/poster-SALC-2019.pdf" target="_blank">Poster</a>
 
-Multilinguals at the Explicit-Implicit Interface. Workshop of the Arctic MSCA-IF Symposium, Tromsø, Norway, May 2019.
+Multilinguals at the Explicit-Implicit Interface. Workshop of the Arctic MSCA-IF Symposium, Tromsø, Norway, May 2019. <a href="material/slides-Tromso-Workshop-2019.pdf" target="_blank">Slides</a>
 
-Iconicity in word order variation: The case of preposition placement. 12th International Symposium on Iconicity in Language and Literature, Lund, Sweden, May 2019. <a href="material/ILL-2019-talk-abstract.pdf" target="_blank">Abstract</a> <a href="material/ILL-2019-talk-slides.pdf" target="_blank">Slides</a>
+Iconicity in word order variation: The case of preposition placement. 12th International Symposium on Iconicity in Language and Literature, Lund, Sweden, May 2019. <a href="material/abstract-ILL-2019.pdf" target="_blank">Abstract</a> <a href="material/slides-ILL-2019.pdf" target="_blank">Slides</a>
 
-Red, falling, nearest star: Does exposure to science fiction literature predict knowledge and processing of genre-specific collocations? 3rd JenLing Workshop, Jena, Germany, February 2019.
+Red, falling, nearest star: Does exposure to science fiction literature predict knowledge and processing of genre-specific collocations? 3rd JenLing Workshop, Jena, Germany, February 2019. <a href="material/slides-Jena-workshop-2019.pdf" target="_blank">Slides</a>
 
 `2018`
 
-What preposition placement depends on in learner English: A usage-based corpus study. 8th International Conference of the German Cognitive Linguistics Association: Applied Cognitive Linguistics, Koblenz, Germany, September 2018. <a href="material/DGKL-2018-talk-abstract.pdf" target="_blank">Abstract</a> <a href="material/DGKL-2018-talk-slides.pdf" target="_blank">Slides</a>
+What preposition placement depends on in learner English: A usage-based corpus study. 8th International Conference of the German Cognitive Linguistics Association: Applied Cognitive Linguistics, Koblenz, Germany, September 2018. <a href="material/abstract-DGKL-2018.pdf" target="_blank">Abstract</a> <a href="material/slides-DGKL-2018.pdf" target="_blank">Slides</a>
 
 `2017` 
 
-Preposition placement in learner English: Acceptability depends on input frequency and cross-linguistic similarity. 14th International Cognitive Linguistics Conference (ICLC), Tartu, Estonia, July 2017. <a href="material/ICLC-2017-talk-abstract.pdf" target="_blank">Abstract</a> <a href="material/ICLC-2017-talk-slides.pdf" target="_blank">Slides</a>
+Preposition placement in learner English: Acceptability depends on input frequency and cross-linguistic similarity. 14th International Cognitive Linguistics Conference (ICLC), Tartu, Estonia, July 2017. <a href="material/abstract-ICLC-2017.pdf" target="_blank">Abstract</a> <a href="material/slides-ICLC-2017.pdf" target="_blank">Slides</a>
 
 `2016` 
 
-On oblique relative clauses in learner English: A magnitude estimation acceptability judgement experiment. Cognitive Linguistics in Brno (CLiB), Brno, Czech Republic, October 2016. <a href="material/CLiB-2016-talk-abstract.pdf" target="_blank">Abstract</a> 
+On oblique relative clauses in learner English: A magnitude estimation acceptability judgement experiment. Cognitive Linguistics in Brno (CLiB), Brno, Czech Republic, October 2016. <a href="material/abstract-CLiB-2016.pdf" target="_blank">Abstract</a> 
 
 ### Reviews
 
