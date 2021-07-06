@@ -35,9 +35,9 @@ A usage-based approach to preposition placement in English as a second language.
 
 `2021`  
 
-The Case of German Two-Way Prepositions. 5th Symposium Corpus Approaches to Lexicogrammar (LxGr), online, July 2021 <a href="material/abstract-LxGr-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-LxGr-2021.pdf" target="_blank">Slides</a>
+The Case of German Two-Way Prepositions. 5th Symposium Corpus Approaches to Lexicogrammar (LxGr), online, Great Britain, July 2021 <a href="material/abstract-LxGr-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-LxGr-2021.pdf" target="_blank">Slides</a>
 
-Einfach mal ausprobieren: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Give it a try: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). Nachwuchskonferenz der 48. Jahrestagung DaF/DaZ, online, June 2021. <a href="material/abstract-fadaf-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-fadaf-2021.pdf" target="_blank">Slides</a>
+Einfach mal ausprobieren: Korpus Einfaches Deutsch für daten-geleitetes Fremdsprachenlernen auf Anfängerniveau ("Give it a try: Corpus Simple German for data-driven foreign language learning at low proficiency levels"). Nachwuchskonferenz der 48. Jahrestagung DaF/DaZ, online, Germany, June 2021. <a href="material/abstract-fadaf-2021.pdf" target="_blank">Abstract</a> <a href="material/slides-fadaf-2021.pdf" target="_blank">Slides</a>
 
 `2020`  
 
