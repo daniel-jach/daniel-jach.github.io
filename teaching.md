@@ -9,10 +9,6 @@ My linguistic expertise on second language learning forms the foundation of my t
 
 ![](images/syntax-tree.png)
 
-### Academic Writing Guide
-
-Download my academic writing guide (in German) <a href="material/leitfaden-wissenschaftliches-schreiben.pdf" target="_blank">here</a>.
-
 ### Courses
 
 Semester | Title | CEFL | Syllabus | Evaluation
@@ -58,3 +54,19 @@ Semester | Title | CEFL | Syllabus | Evaluation
 2010 | Tutorien Einführung in die Germanistische Sprachwissenschaft<br>("Tutorials for Introduction to German Linguistics")
 
 \* Straightliners and dishonest respondents have been removed automatically.
+
+### Academic Writing Guide
+
+Download my academic writing guide (in German) <a href="material/leitfaden-wissenschaftliches-schreiben.pdf" target="_blank">here</a>.
+
+### Useful Resources (by Others)
+
+Links to two reading lists of German literature catalogued and searchable by language proficiency and topic, some entries with summaries and discussion questions. 
+
+<a href="https://www.leelu.eu/buecherkatalog/" target="_blank">https://www.leelu.eu/buecherkatalog/</a>  
+
+<a href="https://www.lezenvoordelijst.nl/duits" target="_blank">https://www.lezenvoordelijst.nl/duits</a>  
+
+
+
+
