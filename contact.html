@@ -151,9 +151,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <form action="https://formspree.io/f/myylbjzn" method="POST">
-<label> Your name<br> <input type="text" name="name" required=""> </label> <br> <label> Your email address<br> <input type="text" name="_name_replyto" required=""> </label> <br> <label> Subject<br> <input type="text" name="subject"> </label> <br> <label> Message<br>
-<textarea name="message" rows="3"></textarea>
-</label> <br> <label> <button type="submit">Send</button> </label>
+<p><label for="name">Your name</label> <input type="text" id="name" name="name" required=""></p>
+<p><label for="_name_replyto">Your email address</label> <input type="email" id="_name_replyto" name="_name_replyto" required=""></p>
+<p><label for="subject">Subject</label> <input type="text" id="subject" name="subject"></p>
+<label for="message">Message</label>
+<textarea id="message" name="message" rows="3"></textarea>
+<button type="submit">
+Send
+</button>
 </form>
 
 
