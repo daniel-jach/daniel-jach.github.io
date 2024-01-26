@@ -1,83 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://daniel-jach.github.io/student-work/posts/desert-island/index.html</loc>
-    <lastmod>2023-12-16T10:01:40.285Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/student-work/posts/chengdu/index.html</loc>
-    <lastmod>2023-12-16T10:01:38.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/student-work/posts/critical-incidents/index.html</loc>
-    <lastmod>2023-12-16T10:01:36.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/pictures/index.html</loc>
-    <lastmod>2023-12-16T10:01:34.302Z</lastmod>
-  </url>
-  <url>
     <loc>https://daniel-jach.github.io/index.html</loc>
-    <lastmod>2023-12-16T10:01:32.055Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/resources/KED.html</loc>
-    <lastmod>2023-12-16T10:01:30.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/etalia/deutsche-sofaecke/index.html</loc>
-    <lastmod>2023-12-16T10:01:29.019Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/etalia/studier-in-DE/slides.html</loc>
-    <lastmod>2023-12-16T10:01:26.328Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/outreach/activities/christmasparty-2022.html</loc>
-    <lastmod>2023-12-16T10:01:21.448Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/outreach/activities/jugend-debattiert-2023.html</loc>
-    <lastmod>2023-12-16T10:01:18.777Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/outreach/activities/workshops-vet.html</loc>
-    <lastmod>2023-12-16T10:01:17.597Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/outreach/activities/daf-sofa.html</loc>
-    <lastmod>2023-12-16T10:01:20.233Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/outreach/index.html</loc>
-    <lastmod>2023-12-16T10:01:22.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/etalia/index.html</loc>
-    <lastmod>2023-12-16T10:01:27.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/contact.html</loc>
-    <lastmod>2023-12-16T10:01:29.451Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daniel-jach.github.io/resources/index.html</loc>
-    <lastmod>2023-12-16T10:01:30.639Z</lastmod>
+    <lastmod>2024-01-26T10:38:04.000Z</lastmod>
   </url>
   <url>
     <loc>https://daniel-jach.github.io/teaching/index.html</loc>
-    <lastmod>2023-12-16T10:01:32.926Z</lastmod>
+    <lastmod>2024-01-26T10:38:02.000Z</lastmod>
   </url>
   <url>
-    <loc>https://daniel-jach.github.io/student-work/index.html</loc>
-    <lastmod>2023-12-16T10:01:34.954Z</lastmod>
+    <loc>https://daniel-jach.github.io/student-work/posts/chengdu/index.html</loc>
+    <lastmod>2024-01-26T10:38:00.000Z</lastmod>
   </url>
   <url>
-    <loc>https://daniel-jach.github.io/student-work/posts/fairytales/index.html</loc>
-    <lastmod>2023-12-16T10:01:38.450Z</lastmod>
+    <loc>https://daniel-jach.github.io/student-work/posts/desert-island/index.html</loc>
+    <lastmod>2024-01-26T10:37:57.000Z</lastmod>
   </url>
   <url>
     <loc>https://daniel-jach.github.io/student-work/posts/jobinterview/index.html</loc>
-    <lastmod>2023-12-16T10:01:39.309Z</lastmod>
+    <lastmod>2024-01-26T10:37:54.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/resources/index.html</loc>
+    <lastmod>2024-01-26T10:37:53.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/outreach/activities/daf-sofa.html</loc>
+    <lastmod>2024-01-26T10:37:51.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/outreach/activities/jugend-debattiert-2023.html</loc>
+    <lastmod>2024-01-26T10:37:48.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/etalia/index.html</loc>
+    <lastmod>2024-01-26T10:37:45.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/etalia/studier-in-DE/slides.html</loc>
+    <lastmod>2024-01-26T10:37:41.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/etalia/deutsche-sofaecke/index.html</loc>
+    <lastmod>2024-01-26T10:37:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/pictures/index.html</loc>
+    <lastmod>2024-01-26T10:37:46.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/outreach/activities/workshops-vet.html</loc>
+    <lastmod>2024-01-26T10:37:50.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/outreach/index.html</loc>
+    <lastmod>2024-01-26T10:37:52.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/resources/KED.html</loc>
+    <lastmod>2024-01-26T10:37:54.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/student-work/posts/critical-incidents/index.html</loc>
+    <lastmod>2024-01-26T10:37:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/student-work/posts/fairytales/index.html</loc>
+    <lastmod>2024-01-26T10:38:00.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/student-work/index.html</loc>
+    <lastmod>2024-01-26T10:38:01.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daniel-jach.github.io/contact.html</loc>
+    <lastmod>2024-01-26T10:38:02.000Z</lastmod>
   </url>
 </urlset>
