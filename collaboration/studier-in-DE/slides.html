@@ -473,14 +473,14 @@ Dr.&nbsp;Daniel Jach
 <section id="mein-weg-von-china-nach-de" class="slide level2 smaller">
 <h2>Mein Weg von China nach DE</h2>
 <div class="columns">
-<div class="column fragment" style="text-align: center;">
+<div class="column fragment" style="text-align: center; width:48%;">
 <p><strong>Vor dem Bachelor</strong></p>
 <p>Mindestens ein Semester an “211” Universität studieren<br> 至少在国内重点大学就读一个学期</p>
 <p>↓</p>
 <p>APS + Sprachprüfungen<br> APS + 一定的语言要求</p>
 <p>↓</p>
 <p>Bachelor-Studium in DE<br> 进入德国大学本科学习</p>
-</div><div class="column fragment" style="text-align: center;">
+</div><div class="column fragment" style="text-align: center; width:48%;">
 <p><strong>Nach dem Bachelor</strong></p>
 <p>Bachelor von anerkannter Universität in China<br> 至少在国内普通高校就读满三个学期</p>
 <p>↓</p>
@@ -1055,7 +1055,7 @@ Dr.&nbsp;Daniel Jach
       }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp('/' + window.location.host + '/');
+          var filterRegex = new RegExp("https:\/\/daniel-jach\.github\.io\/");
         var isInternal = (href) => {
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
