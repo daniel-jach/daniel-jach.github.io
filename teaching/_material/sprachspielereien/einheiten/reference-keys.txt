@@ -2,3 +2,4 @@ einleitung
 erzählen-ferien
 erzählen-schulzeit
 erzählen-leben
+beschreiben-sich-andere
