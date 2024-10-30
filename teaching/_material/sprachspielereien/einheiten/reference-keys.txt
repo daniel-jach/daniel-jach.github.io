@@ -3,5 +3,5 @@ erzählen-ferien
 erzählen-schulzeit
 erzählen-leben
 beschreiben-sich-andere
-beschreiben-vergleichen-länder
-begründen-lieblingsstadt
+beschreiben-vergleichen-laender
+begruenden-lieblingsstadt
