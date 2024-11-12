@@ -6,3 +6,4 @@ beschreiben-sich-andere
 beschreiben-vergleichen-laender
 begruenden-lieblingsstadt
 meinung-klimawandel
+meinung-besteStudentin
