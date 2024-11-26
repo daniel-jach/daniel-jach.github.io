@@ -8,3 +8,4 @@ begruenden-lieblingsstadt
 meinung-klimawandel
 meinung-besteStudentin
 begruenden-single
+beschreiben-charakter
