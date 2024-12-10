@@ -10,3 +10,4 @@ meinung-besteStudentin
 begruenden-single
 beschreiben-charakter
 beschreiben-heimat
+ratschlaege-geben-kontakte
