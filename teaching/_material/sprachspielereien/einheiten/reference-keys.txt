@@ -10,4 +10,5 @@ meinung-besteStudentin
 begruenden-single
 beschreiben-charakter
 beschreiben-heimat
+absichten-formulieren-haustiere
 ratschlaege-geben-kontakte
