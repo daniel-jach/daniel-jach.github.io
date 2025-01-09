@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Borrowed Plumes – Daniel Jach, PhD</title>
+<title>Praktische Datenanalyse mit R: Werkzeuge für Forschung und Studium – Daniel Jach, PhD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +23,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-75ace020f39bc39b8219e0c1d49ed01e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-75ace020f39bc39b8219e0c1d49ed01e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,76 +66,18 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../../index.html">
     <span class="navbar-title">Daniel Jach, PhD</span>
     </a>
   </div>
@@ -148,35 +88,35 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research/index.html"> 
+    <a class="nav-link" href="../../../research/index.html"> 
 <span class="menu-text">Academic Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching/index.html"> 
+    <a class="nav-link" href="../../../teaching/index.html"> 
 <span class="menu-text">Teaching Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources/index.html"> 
+    <a class="nav-link" href="../../../resources/index.html"> 
 <span class="menu-text">Digital Ressources</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../collaboration/index.html"> 
+    <a class="nav-link" href="../../../collaboration/index.html"> 
 <span class="menu-text">Community Collaboration</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../photos/index.html"> 
+    <a class="nav-link" href="../../../photos/index.html"> 
 <span class="menu-text">Personal Photographs</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../student-work/index.html" aria-current="page"> 
+    <a class="nav-link" href="../../../student-work/index.html"> 
 <span class="menu-text">Borrowed Plumes</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../contact/index.html"> 
+    <a class="nav-link" href="../../../contact/index.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -187,179 +127,61 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Praktische Datenanalyse mit R: Werkzeuge für Forschung und Studium</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Borrowed Plumes</h1>
-</div>
-
-
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>Whoever said that all Chinese are good at math but bad at the arts has never met my students. They are really bad at math (Sorry, folks! You know I am just joking! ;-) but really good at original writing, critical thinking, and other creative tasks. They have allowed me to adorn my website with some of their work.</p>
-<p>The contributions are in German.</p>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1665282150000" data-listing-reading-time-sort="1" data-listing-word-count-sort="136">
-<a href="../student-work/posts/jobinterview/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/jobinterview/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Das schlechteste Bewerbungsgespräch aller Zeiten
-</h5>
-<div class="card-text listing-description">
-Ein Bewerbungsgespräch auf Deutsch zu führen ist schwierig, vor allem für jemanden aus einem anderen Kulturkreis.
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1700028317000" data-listing-reading-time-sort="22" data-listing-word-count-sort="4280">
-<a href="../student-work/posts/fairytales/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/fairytales/image.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Märchen
-</h5>
-<div class="card-text listing-description">
-Von <em>Sterntaler</em> bis <em>Star Wars</em> beginnt der Erzähler seine Geschichte mit der Formel <em>Es war einmal</em> und macht damit allen Erwartungen seiner Zuhörer oder Leser an eine „normale“…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1700028322000" data-listing-reading-time-sort="14" data-listing-word-count-sort="2661">
-<a href="../student-work/posts/critical-incidents/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/critical-incidents/image.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Critical Incidents
-</h5>
-<div class="card-text listing-description">
-Critical Incidents sind kleine Erlebnisse, die von einem oder mehreren Beteiligten als problematisch, verwirrend oder lustig wahrgenommen werden, weil sich jemand –…<em></em>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
+<style>
+img {
+  object-fit: cover;
+  width: 230px;
+  height: 230px;
+}
+</style>
 
+<p>Die Möglichkeiten der quantitativen Forschung in den Geisteswissenschaften entdecken!</p>
+<div class="clearfix">
+<p><img src="logo.png" class="img-fluid" style="float: left; padding: 15px; width: 250px;"></p>
+<p>In nahezu allen wissenschaftlichen Disziplinen haben sich quantitative Forschungsmethoden etabliert, auch in den Geisteswissenschaften (z.&nbsp;B. der Germanistik oder der Sinologie). In meinem Kurs <em>Praktische Datenanalyse mit R</em> haben die Teilnehmer fundierte Kenntnisse in der Datenanalyse mit R erworben. Von Grund auf haben sie sich Programmier- und Analysefertigkeiten angeeignet und in ihren eigenen Forschungsprojekten faszinierende Themen untersucht. Die Ergebnisse der Projekte sind auf den persönlichen Webseiten der Teilnehmer einsehbar.</p>
 </div>
+<div class="clearfix">
+<p><img src="painting.jpeg" class="img-fluid" style="float: right; padding: 15px; width: 250px;"></p>
+<p>Xu Wanqing untersucht die Farbqualitäten historischer chinesischer Gemälde anhand von Bilddateien aus der Online-Collection des <a href="https://asia.si.edu/explore-art-culture/">Smithsonian National Museum of Asian Art</a>. Ihre Ergebnisse sind auf ihrer persönlichen Webseite <a href="https://wanqing.quarto.pub/farbanalyse-von-alten-chinesischen-gemaelden/">hier</a> zu finden.</p>
 </div>
+<div class="clearfix">
+<p><img src="wordcloud.png" class="img-fluid" style="float: right; padding: 15px; width: 250px;"></p>
+<p>Lv Xinyu untersucht den deutschen politischen Diskurs über Gas vor und nach dem Anschlag auf die Nord Stream-Pipeline im September 2022. Ihre Ergebnisse sind auf ihrer persönlichen Webseite <a href="https://yu0015.quarto.pub/gas/">hier</a> zu finden.</p>
 </div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1697939397000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1937">
-<a href="../student-work/posts/desert-island/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/desert-island/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Leben und Leben lassen auf einer einsamen Insel
-</h5>
-<div class="card-text listing-description">
-Das war eine wunderbare Erfahrung! (Genossin Yukun)
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1736414554476" data-listing-reading-time-sort="1" data-listing-word-count-sort="169">
-<a href="../student-work/posts/R/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/R/logo.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Praktische Datenanalyse mit R: Werkzeuge für Forschung und Studium
-</h5>
-<div class="card-text listing-description">
-Die Möglichkeiten der quantitativen Forschung in den Geisteswissenschaften entdecken!
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1697939296000" data-listing-reading-time-sort="1" data-listing-word-count-sort="85">
-<a href="../student-work/posts/chengdu/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../student-work/posts/chengdu/image.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Meine Heimatstadt Chengdu
-</h5>
-<div class="card-text listing-description">
-Das moderne Chengdu hat seine ferne Vergangenheit in Museen, Tempeln und Erzählungen bewahrt, aber die chinesische Gegenwart ist laut und grell und übertönt verhallende…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
 
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
